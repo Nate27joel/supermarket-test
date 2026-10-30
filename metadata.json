@@ -1,0 +1,8 @@
+{
+  "name": "FreshPick Supermarket",
+  "description": "Nuelixx Supermarket - Online supermarket serving all 36 States across Nigeria with farm-fresh produce, branded beverages, pantry staples, dairy & household essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
